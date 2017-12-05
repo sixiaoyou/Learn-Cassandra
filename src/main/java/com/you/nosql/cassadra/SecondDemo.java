@@ -1,4 +1,4 @@
-package com.you.nosql.casssdrna;
+package com.you.nosql.cassadra;
 
 import java.util.List;
 

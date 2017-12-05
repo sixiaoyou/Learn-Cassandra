@@ -1,4 +1,4 @@
-package com.you.nosql.casssdrna;
+package com.you.nosql.cassadra;
 
 import com.datastax.driver.core.Cluster;
 import com.datastax.driver.core.Host;
